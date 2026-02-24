@@ -1,37 +1,38 @@
-#Headings
-##''My Learning Goals''
-###''This Semester''
+# Headings
+## My Learning Goals
+### This Semester
 
-#Text formatting
-I'm building skills on **HTML**,*JAVASCRIPT* and `PYTHON`
+# Text formatting
+I'm building skills on **HTML**, *JAVASCRIPT*  and `PYTHON`
 
-#Link
+# Link
 [Link text](https://coddy-m.com)
 [Link text](https:www.freecodecamp.org)
 
-#List
--SQL
--Python
--Cloud Computing
+# List
+- SQL
+- Python
+- Cloud Computing
 
-1.Modify Files
-2.Stage the changes
-3.Finalize the commit
+1. Modify Files
+2. Stage the changes
+3. Finalize the commit
 
-#Table
+# Table
 | Tool       |  Purpose                                              |    Link                                 
 |------------|---------------------------------------------------|--------------------------|            
 |VS Code     |writing,debbuging and linting with code extensions |code.visualstudio.com     |                                 
 |Github      |pull requests and collaborative coding             |github.com                |                        
 |Claude Code |debugging                                          |anthropic.com             |
 
-#Task List
-- [x] learn Git and Github
-- [x] learn html 
-- [ ] understand vs code completely
-- [x] understand markdown basics 
+# Task List
+- [x] Learn Git and Github
+- [x] Learn html 
+- [x] Understand vs code completely
+- [x] Understand markdown basics 
+- [ ] Style using css
 
-#Code Block
+# Code Block
 ```python
 def hello_world():
 print(''Hello, World''()
@@ -41,10 +42,10 @@ print(''Hello, World''()
 
 #About me
 1. Aspiring to be good at 'front-end development'
-2.looking forward to []learning JavaScript
-                     []mastering software enginering
+2. Looking forward to []learning JavaScript
+                      []mastering all programing languages
 
--interested in: |API development  |
-                |---------------- |
-                |Cloud Computing  |
-               |
+- Interested in: |API development |
+                 |----------------|
+                 |Cloud Computing |
+               
